@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mors/edjadje/module1/C/main.cpp
+iostream
+-
+string
+-
+unordered_set
+-
+set
+-
+list
+-
+utility
+-
+algorithm
+-
+vector
+-
+sstream
+-
+stack
+-
+fstream
+-
+
